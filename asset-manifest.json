@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/expDeployMain/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/expDeployMain/static/js/main.3746b260.chunk.js",
+    "main.js.map": "/expDeployMain/static/js/main.3746b260.chunk.js.map",
+    "runtime-main.js": "/expDeployMain/static/js/runtime-main.31e894d7.js",
+    "runtime-main.js.map": "/expDeployMain/static/js/runtime-main.31e894d7.js.map",
+    "static/js/2.c4fac9e6.chunk.js": "/expDeployMain/static/js/2.c4fac9e6.chunk.js",
+    "static/js/2.c4fac9e6.chunk.js.map": "/expDeployMain/static/js/2.c4fac9e6.chunk.js.map",
+    "static/js/3.b813aaea.chunk.js": "/expDeployMain/static/js/3.b813aaea.chunk.js",
+    "static/js/3.b813aaea.chunk.js.map": "/expDeployMain/static/js/3.b813aaea.chunk.js.map",
+    "index.html": "/expDeployMain/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/expDeployMain/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c4fac9e6.chunk.js.LICENSE.txt": "/expDeployMain/static/js/2.c4fac9e6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/expDeployMain/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31e894d7.js",
+    "static/js/2.c4fac9e6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.3746b260.chunk.js"
+  ]
+}
