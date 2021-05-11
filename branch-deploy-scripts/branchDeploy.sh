@@ -19,3 +19,9 @@ mv build ../expDeployBranches/$branch
 rm package.json
 # restore original package json
 mv package-original.json package.json
+
+# add commit use branch name in commit push
+cd ../expDeployBranches
+git add .
+git commit -am "deploy $branch"
+git push origin main
