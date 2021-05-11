@@ -15,7 +15,7 @@ if (checkOld > -1) {
 }
 
 data.branches.unshift({
-  url: "https://grantcuster.github.io/branches/" + branch,
+  url: "https://grantcuster.github.io/expDeployBranches/" + branch,
   name: process.argv[2],
   date: new Date().toJSON(),
 });
